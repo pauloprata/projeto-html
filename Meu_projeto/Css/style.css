@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow:
+}
+.menu{
+    width: 100%;
+
+}
+.navegacao{
+    width: 100%;
+    background-color: #0000CD;
+}
+.navegacao li{
+
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    font-size: 15px;
+    margin: 10px; 
+    
+
+}
+.topo{
+    width: 100%;
+    max-width: 1044;
+    height: 40px;
+    background-color: #F5F5F5;
+}
+.topo_left{
+
+    padding-left: 24px;
+}
+.topo_right{
+    width: 400px;
+    height: 30px;
+    float: right;
+    position: relative;
+    top: -60px
+    
+}
+.topo_left{
+    
+}
+.topo_left li{
+    display: inline-block;
+    line-height: 30px;
+    list-style: none;
+    padding: 10px;
+    
+
+}
+
+
+.navegacao a{
+
+    color: #000;
+    text-decoration: none;
+    
+}
+.container-curso{
+    
+
+    margin-top: 20px;
+    background-color:#FFFFE0;
+    width: 100%;
+
+}
+
+.container-curso h2{
+    
+font-size: 20px;
+    text-align: center;
+    border: inset  #ff0000;
+    border-width: medium
+
+    
+}
+ /*
+.my_courses {
+
+    padding-left: 100px;
+    
+   float: left;
+    
+    
+    
+}
+*/
+.my_courses {
+ text-align: center;
+}
+.profs{
+    background-color: #0000CD;
+    padding: 20px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    color:#fff;
+    padding: 10px;
+    background-color: #0000CD;
+}
+
+.container_depoi{
+ 
+}
+.depoimentos{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%px;
+    border-bottom: solid 1px #337373;
+    margin-top: 50px;
+    
+    
+}
+.depoimentos p{
+    border-bottom: solid 2px #000;
+    text-align: center;
+    
+}
+.depoimemntos h2{
+    float: left;
+}
+
+.depoimentos img{
+    width:200PX;
+   margin-top: 30px;
+}
+footer{
+    background-color: #0000CD;
+    text-align: center;
+    min-height: 20vh;
+}
+.parceiros{
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.contact{
+    margin: 20px;
+}
+.contac{
+    display: inline;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.contac input {
+    width:600px;
+    margin: 10px;
+    height: 50px
+}
+.contact textarea{
+    width: 600px;
+    height: 
+}
+#contact button{
+     color: #fff;
+    text-transform: uppercase;
+    background-color: #8B7D6B;
+    border-radius: 10px;
+    
+}
+.contact h2{
+    float: left;
+}
+
+@media screen and (max-width:1000px){
+    .nav-item{
+    display: inline-flex;
+    }
+.col-md-3{
+    grid-column-start: 3; 
+    grid-row-start: 3; 
+  
+  
+    }
+    .depoimentos{
+    flex-direction: column;
+}
+    
+
+
+

@@ -186,9 +186,8 @@ footer{
     flex-direction: column;
 }
     .topo_right{
-        float: left;
         position: relative;
-        top:3px;
+        top:2px;
         left: 200px
     }
 }

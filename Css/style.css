@@ -7,7 +7,11 @@
     width: 100%;
 
 }
-.navegacao{
+
+.navbar-collapse{
+    background-color: #0000CD;
+}
+{
     width: 100%;
     background-color: #0000CD;
 }
@@ -180,6 +184,13 @@ footer{
     }
     .depoimentos{
     flex-direction: column;
+}
+    .topo_right{
+        float: left;
+        position: relative;
+        top:2px;
+        left: 200px
+    }
 }
     
 

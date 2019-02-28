@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\bin\Debug\Axecutavel.exe.config
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\bin\Debug\Axecutavel.exe
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\bin\Debug\Axecutavel.pdb
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\obj\Debug\Axecutavel.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\obj\Debug\Axecutavel.exe
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\obj\Debug\Axecutavel.pdb
+C:\Users\Win10\Desktop\Problemas\INSS\Axecutavel\obj\Debug\Axecutavel.csprojAssemblyReference.cache

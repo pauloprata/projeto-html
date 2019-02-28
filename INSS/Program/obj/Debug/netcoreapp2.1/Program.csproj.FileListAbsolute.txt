@@ -1,0 +1,4 @@
+C:\Users\Win10\Desktop\Problemas\INSS\Program\obj\Debug\netcoreapp2.1\Program.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Problemas\INSS\Program\obj\Debug\netcoreapp2.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Problemas\INSS\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Problemas\INSS\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfo.cs
